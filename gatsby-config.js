@@ -82,8 +82,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'GCN',
-        short_name: 'GCN',
+        name: 'yossys-io',
+        short_name: 'yossys-io',
         start_url: '/',
         background_color: '#ffffff',
         theme_color: '#ffffff',
